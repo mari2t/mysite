@@ -1,5 +1,10 @@
 # StudyLog
 
+## 2024/2/19
+
+1.  （管理者）作成。(python manage.py createsuperuseradmin)
+2.  パスワードは8文字でないと警告が出る(This password is too short. It must contain at least 8 characters.)
+
 ## 2024/2/18
 
 1. モデルの変更を実施する3ステップ
