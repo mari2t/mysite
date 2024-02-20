@@ -5,6 +5,11 @@
 1.  管理画面の各項目のHistoryから更新者の情報を見ることができる。
 2.  Settingで言語を日本語、タイムゾーンをAsia/Tokyoに変更。管理画面も変更が反映された。
 
+## 2024/2/19
+
+1.  （管理者）作成。(python manage.py createsuperuseradmin)
+2.  パスワードは8文字でないと警告が出る(This password is too short. It must contain at least 8 characters.)
+
 ## 2024/2/18
 
 1. モデルの変更を実施する3ステップ
