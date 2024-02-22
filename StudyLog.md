@@ -1,5 +1,9 @@
 # StudyLog
 
+## 2024/2/22
+
+1.  リクエストIDが存在しない時404を返す。（from django.http import Http404）
+
 ## 2024/2/21
 
 1.  /templates/pollsというように、アプリケーションと同じ名前のディレクトリにHTMLを入れる。  
