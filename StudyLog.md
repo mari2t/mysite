@@ -1,5 +1,10 @@
 # StudyLog
 
+## 2024/2/23
+
+1.  リクエストIDが存在しない時404を返す書き方はget_objectもある。（get_object_or_404）
+2.  アプリケーションの名前空間を設定することができる（app_name = "polls"）
+
 ## 2024/2/22
 
 1.  リクエストIDが存在しない時404を返す。（from django.http import Http404）
