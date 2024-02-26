@@ -1,5 +1,11 @@
 # StudyLog
 
+## 2024/2/26
+
+1. エラー対策
+   1. from django.views import generic　追加
+   2. modelが原因かと思ってmakemigrationsしたけど違った（No changes detectedと返ってきた）
+
 ## 2024/2/25
 
 1. results.html追加
