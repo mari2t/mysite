@@ -1,11 +1,17 @@
 # StudyLog
 
+## 2024/2/28
+
+1. テストを書き換えて通った。書き換え箇所を間違っていた。
+
 ## 2024/2/27
 
 1. python manage.py shellでエラー確認
 2. テスト実行python manage.py test polls
 
-3. エラー対策
+## 2024/2/26
+
+1. エラー対策
    1. from django.views import generic　追加
    2. modelが原因かと思ってmakemigrationsしたけど違った（No changes detectedと返ってきた）
 
