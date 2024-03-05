@@ -1,5 +1,11 @@
 # StudyLog
 
+## 2024/3/5
+
+1. admin フォームのカスタマイズ  
+   class ChoiceInline(admin.StackedInline):全て表示する  
+   class ChoiceInline(admin.TabularInline):テーブル形式で表示する
+
 ## 2024/3/4
 
 1. admin フォームのカスタマイズ
