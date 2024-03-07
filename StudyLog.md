@@ -1,5 +1,13 @@
 # StudyLog
 
+## 2024/3/7
+
+1.  admin/base_site.html をadminディレクトリにコピー。  
+    場所：python -c "import django; print(django.\_\_path\_\_)"
+2.  Django Debug Toolbarをインストール。  
+    python -m pip install django-debug-toolbar
+3.  一通りチュートリアルが終わったのでいったん終了
+
 ## 2024/3/6
 
 1. フィルターと検索を追加
